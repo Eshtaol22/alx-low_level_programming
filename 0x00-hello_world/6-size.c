@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
- * main - this program writes the size of various computer types
+ * main - this program prints the size of various computer types
  * Return: 0(Success)
  */
 int main(void)
